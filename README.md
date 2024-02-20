@@ -20,8 +20,12 @@
 </a>
 
 ## Tools Used <a id="12">
-
-
+<ul>
+<li> Python</li>
+<li>Python Libraries: cv2,os,boto3,cvzone</li>
+<li> machine learning</li>
+<li> aws </li>
+</ul>
 </a>
 
 ## Workflow <a id="1">

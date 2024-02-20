@@ -14,12 +14,12 @@
   <li> <a href="#10"> Contributor </a> </li>
   </ul>
    
-# Project Idea <a id="11">
+## Project Idea <a id="11">
 
 
 </a>
 
-# Tools Used <a id="12">
+## Tools Used <a id="12">
 
 
 </a>

@@ -22,9 +22,9 @@
 ## Tools Used <a id="12">
 <ul>
 <li> Python</li>
-<li>Python Libraries: cv2,os,boto3,cvzone</li>
-<li> machine learning</li>
-<li> aws </li>
+<li>Python Libraries: cv2, os, boto3, cvzone</li>
+<li> Machine Learning</li>
+<li> AWS Cloud </li>
 </ul>
 </a>
 

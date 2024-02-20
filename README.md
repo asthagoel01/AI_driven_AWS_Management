@@ -29,12 +29,6 @@
 </a>
 
 ## Workflow <a id="1">
-<ul>
-   <li> Python Code is Run in Python Environment</li>
-   <li> With CV, live vedio is recorded</li>
-   <li> Based upon fingers movement, different actions happening on AWS</li>
-   <li> Here, actions will happen based upon count of fingers that are up where finger up/down is detected using model and count happening using python for loop & if-else concept </li>
-</ul>
 ![AI Driven AWS Management](https://github.com/asthagoel01/AI_driven_AWS_Management/blob/4b7db507936a2369765528e19c2c71b736c3cb9c/AI_AWS.png)
 </a>
 

@@ -48,7 +48,7 @@ In this way, AWS cloud is being managed by AI instead of manually managing it. W
 
 ## Contributor <a id="10">
    
-<img align="right" width="50" height="50" src="https://github.com/Shailly0502/Tech-Diwane/blob/9b23c66cb98e04a8d3a638c03d22e528b8e38399/li.png">   
+<img align="right" width="30" height="30" src="https://github.com/Shailly0502/Tech-Diwane/blob/9b23c66cb98e04a8d3a638c03d22e528b8e38399/li.png">   
    <ul> 
       <li> <a href="https://www.linkedin.com/in/goel-astha"> Astha Goel </li>
    </ul>

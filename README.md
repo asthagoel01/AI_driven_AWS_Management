@@ -35,6 +35,7 @@
    <li> Based upon fingers movement, different actions happening on AWS</li>
    <li> Here, actions will happen based upon count of fingers that are up where finger up/down is detected using model and count happening using python for loop & if-else concept </li>
 </ul>
+![AI Driven AWS Management]()
 </a>
 
 ## Implementation <a id="9">

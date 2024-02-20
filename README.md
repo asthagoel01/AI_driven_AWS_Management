@@ -38,7 +38,17 @@
 </a>
 
 ## Implementation <a id="9">
-
+<ul>
+   <li> A conda environment "myenv" is created </li>
+   <li> Run Python Code</li>
+   <li> CV starts to record vedio(collection of images)</li>
+   <li> Hands and fingers are detected with the help of model "HandDetector" </li>
+   <li> Among detected fingers, fingers that are up are detected with the help of fingersUp function of the same model </li>
+   <li> With help of loop and if-else, no. of fingers up are counted</li>
+   <li> Based upon condition of fingers count, corresponding action happen, inplemented with the help of if-else concept of Python </li>
+   <li> Action include different activities on AWS Cloud which are executed with using Boto3 Library </li>
+</ul>
+In this way, AWS cloud is being managed by AI instead of manually managing it. We can customise it with our needs.
 </a>
 
 ## Contributor <a id="10">

@@ -15,8 +15,7 @@
   </ul>
    
 ## Project Idea <a id="11">
-
-
+In this project, AWS management is being done using AI. How AI can play a crucial role in managing diffrent tools like AWS is demonstrated using this project.
 </a>
 
 ## Tools Used <a id="12">
